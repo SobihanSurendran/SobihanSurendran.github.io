@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+**Wasserstein Convergence of Critically Damped Langevin Diffusions** [[paper]](https://openreview.net/pdf?id=a7bisLzORM) [[code]](https://github.com/SobihanSurendran/CLD)    
+Strasman, S., Surendran, S., Boyer, C., Le Corff, S., Lemaire, V., & Ocello, A. (2025)                                                      
+*Advances in Neural Information Processing Systems 39 (NeurIPS 2025)* 
 
 **Theoretical Convergence Guarantees for Variational Autoencoders** [[paper]](https://arxiv.org/pdf/2410.16750) [[code]](https://github.com/SobihanSurendran/VAE-Convergence-Guarantees)     
 Surendran, S., Godichon-Baggioni, A., & Le Corff S. (2025)                                                            
