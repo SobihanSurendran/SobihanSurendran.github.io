@@ -15,5 +15,6 @@ I am currently a second-year PhD student in Machine Learning and Optimization at
 - Stochastic Optimization 
 - Generative Models
 - Variational Inference 
-- Monte Carlo Methods 
+- Diffusion Models
+- Neural Combinatorial Optimization
 - Vehicle Routing Problems 
