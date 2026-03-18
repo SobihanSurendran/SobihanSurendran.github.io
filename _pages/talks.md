@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Theoretical Convergence Guarantees for Variational Autoencoders**  [[paper]](https://arxiv.org/pdf/2410.16750) [[slides]](/files/Presentation_JdS_VAE.pdf) [[poster]](/files/Poster_AISTATS_Portrait.pdf) <br>
-- **AISTATS 2025**, Phuket, Thailand  
-- **Journées de Statistique 2025**, Marseille, France
-  
-**Non-asymptotic Analysis of Biased Adaptive Stochastic Approximation**  [[paper]](https://arxiv.org/pdf/2402.02857) [[slides]](/files/Presentation_JDS_Optim.pdf) [[poster]](/files/Poster_NeurIPS_Landscape.pdf) <br>
-- **NeurIPS 2024**, Vancouver, Canada  
-- **NeurIPS@Paris 2024**, Paris, France  
-- **Journées de Statistique 2024**, Bordeaux, France   
+
+**March 2026** — Doctoral Seminar at LPSM, Sorbonne Université, Paris, France  
+**December 2025** — CERMICS × SCALE AI Workshop, École des Ponts, Paris, France  
+**November 2025** — Seminar at CIRRELT, École Polytechnique de Montréal, Montréal, Canada  
+**June 2025** — 56es Journées de Statistique, Marseille, France  
+**May 2025** — AISTATS 2025, Phuket, Thailand  
+**December 2024** — NeurIPS 2024, Vancouver, Canada  
+**November 2024** — NeurIPS@Paris 2024, Paris, France  
+**May 2024** — 55es Journées de Statistique, Bordeaux, France
