@@ -165,6 +165,20 @@ author_profile: true
 <ul class="pub-list">
 
   <li class="pub-item">
+    <p class="pub-title">Latent Stochastic Interpolants for Probabilistic Time Series Forecasting</p>
+    <p class="pub-authors">Bourgeat, M. &amp; <strong>Surendran, S.</strong></p>
+    <div class="pub-venue-row">
+      <span class="badge badge-workshop">ICML 2026 Workshop</span>
+      <span class="badge badge-year">2026</span>
+    </div>
+    <div class="pub-links">
+      <a class="pub-link" href="https://openreview.net/pdf?id=oBvLAlzGq3" target="_blank">
+        <i class="fa-regular fa-file-pdf"></i> Paper
+      </a>
+    </div>
+  </li>
+
+  <li class="pub-item">
     <p class="pub-title">Latent Guided Sampling for Combinatorial Optimization</p>
     <p class="pub-authors"><strong>Surendran, S.</strong>, Fermanian, A., &amp; Le Corff, S.</p>
     <div class="pub-venue-row">
@@ -174,6 +188,7 @@ author_profile: true
     <div class="pub-links">
       <a class="pub-link" href="https://arxiv.org/pdf/2506.03672" target="_blank"><i class="fa-regular fa-file-pdf"></i> Paper</a>
       <a class="pub-link" href="https://github.com/SobihanSurendran/LGS" target="_blank"><i class="fa-brands fa-github"></i> Code</a>
+      <a class="pub-link" href="/files/Poster_ICML_2026_LGS.pdf" target="_blank"><i class="fa-solid fa-image"></i> Poster</a>
     </div>
   </li>
 
@@ -250,6 +265,20 @@ author_profile: true
 <h2 class="pub-section-title">Preprints</h2>
 
 <ul class="pub-list">
+
+  <li class="pub-item preprint">
+    <p class="pub-title">Non-asymptotic Convergence of Stochastic Gradient Descent in Score-based Generative Models</p>
+    <p class="pub-authors">Strasman, S., <strong>Surendran, S.</strong>, &amp; Le Corff, S.</p>
+    <div class="pub-venue-row">
+      <span class="badge badge-preprint">Preprint</span>
+      <span class="badge badge-year">2026</span>
+    </div>
+    <div class="pub-links">
+      <a class="pub-link" href="https://arxiv.org/pdf/2607.04775" target="_blank">
+        <i class="fa-regular fa-file-pdf"></i> Paper
+      </a>
+    </div>
+  </li>
 
   <li class="pub-item preprint">
     <p class="pub-title">Convergence of Multi-Level Markov Chain Monte Carlo Adaptive Stochastic Gradient Algorithms</p>

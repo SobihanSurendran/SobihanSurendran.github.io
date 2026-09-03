@@ -81,7 +81,7 @@ redirect_from:
 </style>
 
 <p class="about-bio">
-I am currently a final-year PhD student in Machine Learning and Optimization at Sorbonne Université. I work within the Department of Statistics (LPSM) under the supervision of <a href="https://godichon.perso.math.cnrs.fr/">Antoine Godichon-Baggioni</a> (Sorbonne Université), <a href="https://sylvainlc.github.io/">Sylvain Le Corff</a> (Sorbonne Université), and <a href="https://afermanian.github.io/">Adeline Fermanian</a> (Califrais). I was also a visiting PhD student at CIRRELT, École Polytechnique de Montréal, under the supervision of <a href="https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html">Thibaut Vidal</a>. My research focuses on the theoretical aspects of stochastic optimization and generative models. I am also interested in applications of machine learning to vehicle routing problems.
+I am currently a final-year PhD student in Machine Learning and Optimization at Sorbonne Université. I work within the Department of Statistics (LPSM) under the supervision of <a href="https://godichon.perso.math.cnrs.fr/">Antoine Godichon-Baggioni</a> (Sorbonne Université), <a href="https://sylvainlc.github.io/">Sylvain Le Corff</a> (Sorbonne Université), and <a href="https://afermanian.github.io/">Adeline Fermanian</a> (Califrais). I was also a visiting PhD student at CIRRELT, École Polytechnique de Montréal, under the supervision of <a href="https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html">Thibaut Vidal</a>. My research focuses on the theoretical aspects of stochastic optimization and generative models, with applications of generative models to vehicle routing problems. I am also interested in probabilistic time-series forecasting using generative models, particularly foundation models for time series.
 </p>
 
 <h2 class="about-section-title">Research Interests</h2>
@@ -92,4 +92,5 @@ I am currently a final-year PhD student in Machine Learning and Optimization at 
   <li class="interest-badge">Variational Inference</li>
   <li class="interest-badge">Neural Combinatorial Optimization</li>
   <li class="interest-badge">Vehicle Routing Problems</li>
+  <li class="interest-badge">Probabilistic Time Series Forecasting</li>
 </ul>

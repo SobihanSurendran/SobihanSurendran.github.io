@@ -152,10 +152,10 @@ author_profile: true
   <div class="timeline-item">
     <div class="timeline-dot" aria-hidden="true"></div>
     <div class="timeline-card">
-      <p class="timeline-card-title">Statistical Learning <span class="badge-current">Present</span></p>
+      <p class="timeline-card-title">Statistical Learning</p>
       <div class="timeline-card-meta">
         <span><i class="fa-solid fa-building-columns"></i> Sorbonne Université</span>
-        <span><i class="fa-regular fa-calendar"></i> 2023 – Present</span>
+        <span><i class="fa-regular fa-calendar"></i> 2023 – 2026</span>
       </div>
       <p class="timeline-card-desc">Python computer labs introducing fundamental concepts in statistical learning and machine learning (regression, classification, clustering, optimization, and neural networks) for Master's students in Applied Mathematics.</p>
     </div>
@@ -164,10 +164,10 @@ author_profile: true
   <div class="timeline-item">
     <div class="timeline-dot" aria-hidden="true"></div>
     <div class="timeline-card">
-      <p class="timeline-card-title">Nonparametric Statistics and High-Dimensional Data <span class="badge-current">Present</span></p>
+      <p class="timeline-card-title">Nonparametric Statistics and High-Dimensional Data</p>
       <div class="timeline-card-meta">
         <span><i class="fa-solid fa-building-columns"></i> Sorbonne Université</span>
-        <span><i class="fa-regular fa-calendar"></i> 2023 – Present</span>
+        <span><i class="fa-regular fa-calendar"></i> 2023 – 2026</span>
       </div>
       <p class="timeline-card-desc">Exercise classes on advanced topics in statistics (nonparametric testing, nonparametric regression, supervised classification, and high-dimensional estimation and shrinkage) for Master's students in Applied Mathematics.</p>
     </div>

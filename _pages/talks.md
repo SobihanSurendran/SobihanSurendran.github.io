@@ -107,6 +107,26 @@ redirect_from:
 <ul class="talk-list">
 
   <li class="talk-item">
+    <span class="talk-month">Jul 2026</span>
+    <div class="talk-content">
+      <p class="talk-title">ICML 2026</p>
+      <div class="talk-meta">
+        <span><i class="fa-solid fa-location-dot"></i> Seoul, South Korea</span>
+      </div>
+    </div>
+  </li>
+
+  <li class="talk-item">
+    <span class="talk-month">Jun 2026</span>
+    <div class="talk-content">
+      <p class="talk-title">57es Journées de Statistique</p>
+      <div class="talk-meta">
+        <span><i class="fa-solid fa-location-dot"></i> Clermont-Ferrand, France</span>
+      </div>
+    </div>
+  </li>
+
+  <li class="talk-item">
     <span class="talk-month">Mar 2026</span>
     <div class="talk-content">
       <p class="talk-title">Doctoral Seminar at LPSM</p>
